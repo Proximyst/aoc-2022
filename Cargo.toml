@@ -11,3 +11,4 @@ itertools = "0.10"
 
 [dev-dependencies]
 pretty_assertions = "^1"
+maplit = "^1"
